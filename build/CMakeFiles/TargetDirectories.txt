@@ -1,0 +1,3 @@
+/home/abstract/projects/tutorial2/Task_4/build/CMakeFiles/employee_salary.dir
+/home/abstract/projects/tutorial2/Task_4/build/CMakeFiles/edit_cache.dir
+/home/abstract/projects/tutorial2/Task_4/build/CMakeFiles/rebuild_cache.dir

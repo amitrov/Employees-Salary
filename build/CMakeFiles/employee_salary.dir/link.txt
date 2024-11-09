@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/employee_salary.dir/employees.c.o -o employee_salary 

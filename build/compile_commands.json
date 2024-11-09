@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/abstract/projects/tutorial2/Task_4/build",
+  "command": "/usr/bin/gcc   -g -std=gnu99 -o CMakeFiles/employee_salary.dir/employees.c.o -c /home/abstract/projects/tutorial2/Task_4/employees.c",
+  "file": "/home/abstract/projects/tutorial2/Task_4/employees.c",
+  "output": "CMakeFiles/employee_salary.dir/employees.c.o"
+}
+]
